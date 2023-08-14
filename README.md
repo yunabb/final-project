@@ -10,14 +10,14 @@
 2. 담당 기능 분배, 요구사항정의서 작성
 3. 데이터베이스 설계, ERD 생성
 4. 클래스 디렉토리 설계 및 페이지 레이아웃 작업
-5. 담당 화면 및 기능 구현
+5. 담당 화면과 기능 구현
 6. 테스트 및 디버깅
 7. 최종 수정 및 보완
 ## :computer: 프로젝트 개발 환경
 - OS : Window 10/11 64bit
 - Framework : Spring Boot, Spring Security, Mybatis
 - DB : Oracle 21c
-- Build : Maven4.0.0
+- Build : Maven 4.0.0
 - Language : Java 11
 - IDE : Eclipse
 - Front-End : HTML , CSS3, Javascript, BootStrap 5.3.0, jquery 3.6.1
