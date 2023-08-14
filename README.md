@@ -26,5 +26,10 @@
 - Front-End : HTML , CSS, Javascript, BootStrap 5.3.0, jquery 3.6.1
 - Version Management : Git, Github
 ## ERD
-![erd최종](https://github.com/yunabb/final-project/assets/115030323/7a51bace-28e9-4363-ac56-f06e1d5a60a0)
+![파이널erd](https://github.com/yunabb/final-project/assets/115030323/dba36647-2473-4f58-9106-e9ef5a7c6b9b)
+- 사원번호는 1000번부터 시작함
+## 담당기능
+### 사용자&담당자 공통 기능
+![1 근태등록](https://github.com/yunabb/final-project/assets/115030323/fc9667f3-2229-48a4-94d5-b7deb9207263)
+- 로그인 후 출근, 퇴근 버튼을 클릭하여 근태정보를 기록하고 db에 저장합니다.
 
