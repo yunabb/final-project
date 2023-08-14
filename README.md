@@ -29,7 +29,7 @@
 ![파이널erd](https://github.com/yunabb/final-project/assets/115030323/dba36647-2473-4f58-9106-e9ef5a7c6b9b)
 #### 유의사항
 - DB 등록시 사원번호는 1000번부터 시작해야함
-## 담당기능
+## 담당기능 :information_desk_person:
 ### 사용자&관리 공통 기능
 #### 1. 근태등록
 ![1 근태등록](https://github.com/yunabb/final-project/assets/115030323/fc9667f3-2229-48a4-94d5-b7deb9207263)
