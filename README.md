@@ -6,7 +6,7 @@
    kt비즈메카 그룹웨어 서비스를 벤치마킹하여 인사등록/관리, 근태/휴가관리, 급여조회와 같은 기능들을 Spring MVC 개발 방식으로 구현해 보았습니다.
 ## 팀원구성  
 김은송, 남수진, 배유나, 이강현, 최준영, 한승우
-## 프로젝트 개발 기간  
+## :calendar:프로젝트 개발 기간  
 ### 2023.1.30 ~ 2023.3.3
 1. 레퍼런스 사이트 선정
 2. 담당 기능 선정, 요구사항정의서 작성
@@ -29,7 +29,7 @@
 ![파이널erd](https://github.com/yunabb/final-project/assets/115030323/dba36647-2473-4f58-9106-e9ef5a7c6b9b)
 #### 유의사항
 - DB 등록시 사원번호는 1000번부터 시작해야함
-## 담당기능 :information_desk_person:
+## :information_desk_person:담당기능
 ### 사용자&관리 공통 기능
 #### 1. 근태등록
 ![1 근태등록](https://github.com/yunabb/final-project/assets/115030323/fc9667f3-2229-48a4-94d5-b7deb9207263)
